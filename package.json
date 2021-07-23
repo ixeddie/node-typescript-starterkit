@@ -1,7 +1,7 @@
 {
-  "name": "serverless-node-typescript-starterkit",
+  "name": "node-typescript-starterkit",
   "version": "1.0.0",
-  "description": "Serverless starter kit",
+  "description": "Node typescript starterkit",
   "main": "handler.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

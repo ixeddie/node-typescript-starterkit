@@ -1,5 +1,5 @@
 const main = () => {
-  console.log('Hello world')
+  console.log('Gwapa ko kaayo!')
 }
 
 main()
